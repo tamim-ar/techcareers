@@ -28,7 +28,7 @@ Perform risk analysis and document test progress/results. Develop standards for 
 
 ---
 
-# 3. Company Name: 
+# 3. Company Name: Right Tracks IT Limited
 
 ### Position: SQA Intern (Software Quality Assurance) [PAID]
 
@@ -42,7 +42,21 @@ Could you help create and maintain daily SQA documentation? Work alongside SQA E
 
 ---
 
-# 4. Company Name: 
+# 4. Company Name: adeer
+
+### Position: Remote QA Intern (Unpaid)
+
+### Requirements:
+
+Undergraduate student passionate about software quality. * Basic understanding of QA principles and methods. Curiosity to explore different QA types (Functional, Regression, UAT, etc.). Eagerness to contribute to product improvement. Strong attention to detail. Team-oriented mindset.
+
+### Responsibilities:
+
+Participate in various QA processes and methodologies. Explore and apply different testing techniques. Provide constructive feedback to enhance product quality. Collaborate with the team in a fast-paced startup environment.
+
+---
+
+# 5. Company Name: 
 
 ### Position: 
 
